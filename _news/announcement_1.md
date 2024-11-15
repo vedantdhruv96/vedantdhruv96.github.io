@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-10-24
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Gave a tutorial on [KHARMA](https://github.com/AFD-Illinois/kharma) at [CCA](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/).
