@@ -4,4 +4,4 @@ date: 2024-10-24
 inline: true
 ---
 
-Gave a tutorial on [KHARMA](https://github.com/AFD-Illinois/kharma) at [CCA](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) :computer:
+Gave a tutorial on <a href="https://github.com/AFD-Illinois/kharma">KHARMA</a> at <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/">CCA</a> :computer:
