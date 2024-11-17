@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-09-13
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
-<!-- Gave a tutorial on <a href="https://github.com/AFD-Illinois/kharma">KHARMA</a> at <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/">CCA</a> :computer: -->
+Awarded an [ACCESS Maximize](https://allocations.access-ci.org/) computational grant for 72k GPU hours and 680k CPU core-hours on [NCSA Delta](https://www.ncsa.illinois.edu/research/project-highlights/delta/) (Co-PI) :tada:
