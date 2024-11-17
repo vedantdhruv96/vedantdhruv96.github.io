@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hi there! I'm computational and theoretical astrophysicist with broad interests in black hole and plasma physics. My research primarily focuses on improving models of black hole accretion, and is guided by observational
-data. I am currently a finishing PhD candidate at the University of Illinois at Urbana-Champaign advised by Prof. [Charles Gammie](https://rainman.astro.illinois.edu/gammie/).
+data. I am currently a finishing PhD candidate at the University of Illinois at Urbana-Champaign advised by [Prof. Charles Gammie](https://rainman.astro.illinois.edu/gammie/).

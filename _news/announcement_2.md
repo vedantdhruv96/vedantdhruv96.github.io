@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Spoke about the role of dissipative physics on black hole images at Columbia University :milky_way:
+Spoke about the role of dissipative physics on black hole images at Columbia University :smile:
