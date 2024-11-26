@@ -3,8 +3,7 @@
   contents:
     - name: Full Name
       value: Vedant Dhruv
-    # - name: Date of Birth
-    #   value: 1996
+
     - name: Languages
       value: English (Proficient), Hindi (Proficient), Gujarati (Native), Spanish (Limited), Arabic (Elementary)
 
@@ -14,19 +13,10 @@
     - title: PhD in Physics
       institution: University of Illinois at Urbana-Champaign
       year: 2019 - 2025 (Expected)
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+ 
     - title: B.Tech in Mechanical Engineering
       institution: National Institute of Technology Karnataka, India
       year: 2014 - 2018
-      # description:
-      #   - Description 1.
-      #   - Description 2.
 
 - title: Experience
   type: time_table
@@ -34,19 +24,10 @@
     - title: Graduate Research Assistant 
       institution: University of Illinois at Urbana-Champaign, Urbana, Illinois, USA
       year: Aug. 2020 -
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+
     - title: Guest Researcher
       institution: Center for Computational Astrophysics, Flatiron Institute, New York, USA
       year: Aug. 2023 - Oct. 2023
-      # description:
-      #   - Description 1.
-      #   - Description 2.
 
     - title: Research Scholar
       institution: Tata Institute of Fundamental Research, Mumbai, India
@@ -57,37 +38,39 @@
       year: May. 2017 - Jul. 2017
 
 - title: Computational Grants
-  type: nested_list
+  type: time_table
   contents:
     - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics” (<b>Co-Investigator</b>)
-      items: 
-        - Oct. 2024 - Sep. 2025
-        - ~72k GPU hours, ~680k CPU core-hours
+      year: Oct. 2024 - Sep. 2025
+      description: ~72k GPU hours, ~680k CPU core-hours
+    
     - title: DOE INCITE “Horizon-scale Variability Modeling for the EHT” (<b>Co-Investigator</b>)
-      items: 
-        - Jan. 2024 - Dec. 2024
-        - ~600k Frontier node-hours
+      year: Jan. 2024 - Dec. 2024
+      description: ~600k Frontier node-hours
+    
     - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics”
-      items: 
-        - Oct. 2023 - Sep. 2024
-        - ~128k GPU hours, ~775k CPU core-hours
+      year: Oct. 2023 - Sep. 2024
+      description: ~128k GPU hours, ~775k CPU core-hours
+    
     - title: DOE INCITE “Next-Generation Modeling for the EHT"
-      items: 
-        - Jan. 2022 - Dec. 2022
-        - ~410k Summit node-hours
-
+      year: Jan. 2022 - Dec. 2022
+      description: ~410k Summit node-hours
 
 - title: Awards
   type: time_table
   contents:
     - title: Selected for ALCF ATPESC HPC Workshop
       year: 2023
+    
     - title: ICSA-NCSA Graduate Fellowship, UIUC
       year: 2022 - 2023
+    
     - title: Excellent Teaching Assistant
       year: 2019 - 2020.
+    
     - title: Visiting Students' Research Programme (VSRP), TIFR Mumbai
       year: 2017
+    
     - title: Nominated for the OPJEMS Scholarship (top 5% in the department)
       year: 2017
 
@@ -96,10 +79,13 @@
   contents:
     - title: KHARMA
       description: A performance-portable GRMHD code with AMR. Primary developer of the implicit timestepper and the Extended MHD model.
+    
     - title: iharm3d
       description: Primary maintainer of the Hybrid MPI/OpenMP 3D GRMHD code. The code can be found <a href="https://github.com/AFD-Illinois/iharm3d">here</a>, while the code paper is <a href="https://joss.theoj.org/papers/10.21105/joss.03336">here</a>.
+    
     - title: iharm2d_v4
       description: A 2D ideal GRMHD code derived from iharm3d with fewer dependencies and better documentation. This is probably what you want if you're just getting started or want to run a black hole accretion problem on your laptop.
+    
     - title: harmless (WIP)
       description: A python module to perform reductions on HARM data products, e.g., KHARMA / iharm3d / iharm2d_v4 output files.
 
