@@ -64,12 +64,10 @@
       contents:
         - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics” (Co-Investigator)
           year: Oct. 2024 - Sep. 2025
-          description:
-            - ~$\sim72k$ GPU hours, $\sim$ 680k CPU core-hours
+          description: ~$\sim72k$ GPU hours, $\sim$ 680k CPU core-hours
         - title: DOE INCITE “Horizon-scale Variability Modeling for the EHT” (Co-Investigator)
           year: Jan. 2024 - Dec. 2024
-          description:
-            - ~$\sim600k$ Frontier node-hours
+          description: ~$\sim600k$ Frontier node-hours
 
 - title: Open Source Projects
   type: time_table
