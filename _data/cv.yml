@@ -56,25 +56,27 @@
       institution: Tata Institute of Fundamental Research, Mumbai, India
       year: May. 2017 - Jul. 2017
 
-- title: Grants and Awards
-  type: time_table
+- title: Computational Grants
+  type: nested_list
   contents:
-    - title: Computational Grants
-      # type: time_table
-      contents:
-        - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics” (Co-Investigator)
-          year: Oct. 2024 - Sep. 2025
-          description: ~$\sim72k$ GPU hours, $\sim$ 680k CPU core-hours
-        - title: DOE INCITE “Horizon-scale Variability Modeling for the EHT” (Co-Investigator)
-          year: Jan. 2024 - Dec. 2024
-          description: ~$\sim600k$ Frontier node-hours
+    - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics” (<b>Co-Investigator</b>)
+      items: 
+        - Oct. 2024 - Sep. 2025
+        - ~$\sim72k$ GPU hours, $\sim$ 680k CPU core-hours
+    - title: DOE INCITE “Horizon-scale Variability Modeling for the EHT” (<b>Co-Investigator</b>)
+      items: 
+        - Jan. 2024 - Dec. 2024
+        - ~$\sim600k$ Frontier node-hours
 
 - title: Open Source Projects
-  type: time_table
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: KHARMA
+      description: A performance-portable GRMHD code with AMR. Primary developer of the implicit timestepper and
+      the Extended MHD model.
+    - title: iharm3d
+      description: Primary maintainer of the Hybrid MPI/OpenMP 3D GRMHD code. The code can be found <a href="https://github.com/AFD-Illinois/iharm3d">here</a>,
+      while the code paper is <a href="https://joss.theoj.org/papers/10.21105/joss.03336">here</a>.
 
 # - title: Academic Interests
 #   type: nested_list
