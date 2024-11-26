@@ -59,11 +59,14 @@
 - title: Grants and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+    - title: Computational Grants
+      type: time_table
+      contents:
+        - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics”
+          year: October 2024 - September 2025
+          description:
+            - ~$\sim72k$ GPU hours, $\sim$ 680k CPU core-hours
+
       items:
         - Max Planck Medal
 
