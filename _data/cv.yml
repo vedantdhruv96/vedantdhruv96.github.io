@@ -60,7 +60,7 @@
   type: time_table
   contents:
     - title: Computational Grants
-      type: time_table
+      # type: time_table
       contents:
         - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics” (Co-Investigator)
           year: Oct. 2024 - Sep. 2025
