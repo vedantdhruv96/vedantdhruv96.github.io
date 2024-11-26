@@ -72,13 +72,11 @@
   type: time_table
   contents:
     - title: KHARMA
-      description: A performance-portable GRMHD code with AMR. Primary developer of the implicit timestepper and
-      the Extended MHD model.
+      description: A performance-portable GRMHD code with AMR. Primary developer of the implicit timestepper and the Extended MHD model.
     - title: iharm3d
-      description: Primary maintainer of the Hybrid MPI/OpenMP 3D GRMHD code. The code can be found <a href="https://github.com/AFD-Illinois/iharm3d">here</a>,
-      while the code paper is <a href="https://joss.theoj.org/papers/10.21105/joss.03336">here</a>.
+      description: Primary maintainer of the Hybrid MPI/OpenMP 3D GRMHD code. The code can be found <a href="https://github.com/AFD-Illinois/iharm3d">here</a>, while the code paper is <a href="https://joss.theoj.org/papers/10.21105/joss.03336">here</a>.
     - title: iharm2d_v4
-      description: 
+      description: A 2D ideal GRMHD code derived from iharm3d with fewer dependencies and better documentation. This is probably what you want if you're just getting started or want to run a black hole accretion problem on your laptop.
 
 # - title: Academic Interests
 #   type: nested_list
