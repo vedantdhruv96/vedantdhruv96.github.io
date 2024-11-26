@@ -67,9 +67,6 @@
           description:
             - ~$\sim72k$ GPU hours, $\sim$ 680k CPU core-hours
 
-      items:
-        - Max Planck Medal
-
 - title: Open Source Projects
   type: time_table
   contents:
