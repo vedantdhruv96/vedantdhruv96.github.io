@@ -57,7 +57,7 @@
       year: May. 2017 - Jul. 2017
 
 - title: Grants and Awards
-  type: nested_list
+  type: time_table
   contents:
     - title: Computational Grants
       type: time_table
