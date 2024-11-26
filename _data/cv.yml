@@ -33,7 +33,7 @@
   contents:
     - title: Graduate Research Assistant 
       institution: University of Illinois at Urbana-Champaign, Urbana, Illinois, USA
-      year: August 2020 -
+      year: Aug. 2020 -
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -43,29 +43,33 @@
       #       - Sub-description 2.
     - title: Guest Researcher
       institution: Center for Computational Astrophysics, Flatiron Institute, New York, USA
-      year: August 2023 - October 2023
+      year: Aug. 2023 - Oct. 2023
       # description:
       #   - Description 1.
       #   - Description 2.
 
     - title: Research Scholar
       institution: Tata Institute of Fundamental Research, Mumbai, India
-      year: May 2018 - April 2019
+      year: May. 2018 - Apr. 2019
 
     - title: Visiting Undergraduate Researcher
       institution: Tata Institute of Fundamental Research, Mumbai, India
-      year: May 2017 - July 2017
+      year: May. 2017 - Jul. 2017
 
 - title: Grants and Awards
-  type: time_table
+  type: nested_list
   contents:
     - title: Computational Grants
       type: time_table
       contents:
-        - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics”
-          year: October 2024 - September 2025
+        - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics” (Co-Investigator)
+          year: Oct. 2024 - Sep. 2025
           description:
             - ~$\sim72k$ GPU hours, $\sim$ 680k CPU core-hours
+        - title: DOE INCITE “Horizon-scale Variability Modeling for the EHT” (Co-Investigator)
+          year: Jan. 2024 - Dec. 2024
+          description:
+            - ~$\sim600k$ Frontier node-hours
 
 - title: Open Source Projects
   type: time_table
