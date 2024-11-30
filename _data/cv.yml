@@ -40,11 +40,11 @@
 - title: Computational Grants
   type: time_table
   contents:
-    - title: ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics” (<b>Co-Investigator</b>)
+    - title: (<b>Co-Investigator</b>) ACCESS Maximize “Event Horizon Telescope and Black Hole Astrophysics”
       year: Oct. 2024 - Sep. 2025
       description: ~72k GPU hours, ~680k CPU core-hours
     
-    - title: DOE INCITE “Horizon-scale Variability Modeling for the EHT” (<b>Co-Investigator</b>)
+    - title: (<b>Co-Investigator</b>) DOE INCITE “Horizon-scale Variability Modeling for the EHT”
       year: Jan. 2024 - Dec. 2024
       description: ~600k Frontier node-hours
     
@@ -66,7 +66,7 @@
       year: 2022 - 2023
     
     - title: Excellent Teaching Assistant
-      year: 2019 - 2020.
+      year: 2019 - 2020
     
     - title: Visiting Students' Research Programme (VSRP), TIFR Mumbai
       year: 2017
