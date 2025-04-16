@@ -59,6 +59,9 @@
 - title: Awards
   type: time_table
   contents:
+    - title: Donald C. & F. Shirley Jones Fellowship
+      year: 2025
+      
     - title: Selected for ALCF ATPESC HPC Workshop
       year: 2023
     
